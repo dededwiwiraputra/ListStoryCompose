@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movie App</string>
+
+    <string name="movies">Movies</string>
+
+    <string name="label_actors">Actors: %1s</string>
+    <string name="label_synopsis">Synopsis: \n%1s</string>
+    <string name="label_director">Director: %1s</string>
+    <string name="label_writer">Writer: %1s</string>
+    <string name="label_imdb_rating">IMDB Rating: %1s</string>
+    <string name="label_imdb_vote">IMDB Vote: %1s</string>
+    <string name="label_metascore">Metascore: %1s</string>
+
+    <string name="about">About</string>
+    <string name="about_me">About Me</string>
+    <string name="about_me_name">Dede Dwi Wira Putra</string>
+    <string name="about_me_email">dededwiwiraputra17@gmail.com</string>
+
+    <string name="back_content_description">back</string>
+    <string name="menu_content_description">menu</string>
+    <string name="about_content_description">about</string>
+    <string name="movie_poster_content_description">movie poster</string>
+    <string name="movie_image_content_description">movie thumbnail</string>
+    <string name="about_me_image_content_description">my photo</string>
+
+</resources>
